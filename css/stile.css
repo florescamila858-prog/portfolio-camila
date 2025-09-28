@@ -219,6 +219,12 @@ nav ul {
 nav ul li {
   display: inline;
 }
+nav a:hover {
+  color: #ffcc00;
+  text-decoration: none;
+}
+
+
 
 
 
