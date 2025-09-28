@@ -13,18 +13,18 @@ function startFadeIn() {
 // Progetti per il modale
 const projects = {
   1: {
-    title: "Proyecto 1",
-    description: "Fotografía editorial en blanco y negro. Serie di retratti con enfasi emotiva e contrasto drammatico.",
+    title: "Progetto 1",
+    description: "Progetto.",
     image: "img/Sin título-1_Mesa de trabajo 1 copia.jpg"
   },
   2: {
-    title: "Proyecto 2",
-    description: "Packaging per linea cosmetica naturale. Uso di materiali sostenibili e design minimalista.",
+    title: "Progetto 2",
+    description: "Progetto.",
     image: "img/1_Mesa de trabajo 1.jpg"
   },
   3: {
-    title: "Proyecto 3",
-    description: "Portfolio digitale per fotografo freelance. Layout elegante con galleria interattiva e biografia.",
+    title: "Progetto 3",
+    description: "Progetto.",
     image: "img/Sin título3.jpg"
   }
  
@@ -121,4 +121,5 @@ function loop() {
 }
 
 loop();
+
 
